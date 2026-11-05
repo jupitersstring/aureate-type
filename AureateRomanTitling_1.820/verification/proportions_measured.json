@@ -1,0 +1,74 @@
+{
+ "Regular": {
+  "stem_cap": 117.0,
+  "stem_lower": 107.0,
+  "stem_smallcap": 104.0,
+  "hairline_bar_H": 72.0,
+  "bowl_O_median": 119.5,
+  "bowl_O_thickest": 137.8,
+  "diagonal_V": 116.6,
+  "diagonal_N": 124.5,
+  "cap": 1453,
+  "x": 898,
+  "smallcap": 954,
+  "O": [
+   -31,
+   1484
+  ],
+  "A_top": 1503,
+  "V_bottom": -50,
+  "W_bottom": -50,
+  "N_bottom": -50,
+  "o": [
+   -24,
+   922
+  ],
+  "v_bottom": -39,
+  "zero": [
+   -31,
+   1484
+  ],
+  "space": 484
+ },
+ "Bold": {
+  "stem_cap": 188.0,
+  "stem_lower": 177.0,
+  "stem_smallcap": 165.0,
+  "hairline_bar_H": 86.0,
+  "bowl_O_median": 196.5,
+  "bowl_O_thickest": 222.0,
+  "diagonal_V": 272.2,
+  "diagonal_N": 190.9,
+  "cap": 1453,
+  "x": 898,
+  "smallcap": 954,
+  "O": [
+   -31,
+   1484
+  ],
+  "A_top": 1503,
+  "V_bottom": -50,
+  "W_bottom": -50,
+  "N_bottom": -50,
+  "o": [
+   -24,
+   922
+  ],
+  "v_bottom": -39,
+  "zero": [
+   -31,
+   1484
+  ],
+  "space": 484
+ },
+ "ratios": {
+  "capital_to_x": 1.61804,
+  "smallcap_to_x": 1.06236,
+  "stem_to_hairline_regular": 1.625,
+  "bold_stem_to_regular_stem": 1.6068,
+  "phi": 1.61803,
+  "bowl_thickest_to_stem_regular": 1.178,
+  "word_space_to_em": 0.2363,
+  "phi_to_minus_3": 0.2361
+ }
+}

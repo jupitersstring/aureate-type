@@ -1,0 +1,48 @@
+{
+ "profile": "universal",
+ "totals": {
+  "(not finished)": 0,
+  "FAIL": 14,
+  "INFO": 16,
+  "PASS": 271,
+  "SKIP": 134,
+  "WARN": 37
+ },
+ "not_passed": {
+  "opentype/family/consistent_family_name": {
+   "result": "FAIL",
+   "times": 1,
+   "codes": [
+    "inconsistent-family-name"
+   ]
+  },
+  "base_has_width": {
+   "result": "FAIL",
+   "times": 4,
+   "codes": [
+    "zero-width-bases"
+   ]
+  },
+  "case_mapping": {
+   "result": "FAIL",
+   "times": 4,
+   "codes": [
+    "missing-case-counterparts"
+   ]
+  },
+  "smallcaps_before_ligatures": {
+   "result": "FAIL",
+   "times": 4,
+   "codes": [
+    "feature-ordering"
+   ]
+  },
+  "typographic_family_name": {
+   "result": "FAIL",
+   "times": 1,
+   "codes": [
+    "incosistent-family-name"
+   ]
+  }
+ }
+}

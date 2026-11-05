@@ -1,0 +1,62 @@
+{
+ "AureateDestinySerif-Bold.ttf": {
+  "family": "Aureate Destiny Serif",
+  "style": "Bold",
+  "version": "Version 1.910",
+  "mac_names": 0,
+  "glyphs": 3397,
+  "composites": 0,
+  "lowercase_types_capitals": true,
+  "c2sc_gives_small_caps": true,
+  "kerning_active": true,
+  "figures_tabular": true,
+  "woff2_same_glyphs": true,
+  "small_cap_bowl_flank": 169.1,
+  "capital_bowl_flank": 189.9
+ },
+ "AureateDestinySerif-Regular.ttf": {
+  "family": "Aureate Destiny Serif",
+  "style": "Regular",
+  "version": "Version 1.910",
+  "mac_names": 0,
+  "glyphs": 3397,
+  "composites": 0,
+  "lowercase_types_capitals": true,
+  "c2sc_gives_small_caps": true,
+  "kerning_active": true,
+  "figures_tabular": true,
+  "woff2_same_glyphs": true,
+  "small_cap_bowl_flank": 103.7,
+  "capital_bowl_flank": 117.3
+ },
+ "AureateDestinySolarSerif-Bold.ttf": {
+  "family": "Aureate Destiny Solar Serif",
+  "style": "Bold",
+  "version": "Version 1.910",
+  "mac_names": 0,
+  "glyphs": 3397,
+  "composites": 0,
+  "lowercase_types_capitals": true,
+  "c2sc_gives_small_caps": true,
+  "kerning_active": true,
+  "figures_tabular": true,
+  "woff2_same_glyphs": true,
+  "small_cap_bowl_flank": 158.2,
+  "capital_bowl_flank": 175.8
+ },
+ "AureateDestinySolarSerif-Regular.ttf": {
+  "family": "Aureate Destiny Solar Serif",
+  "style": "Regular",
+  "version": "Version 1.910",
+  "mac_names": 0,
+  "glyphs": 3397,
+  "composites": 0,
+  "lowercase_types_capitals": true,
+  "c2sc_gives_small_caps": true,
+  "kerning_active": true,
+  "figures_tabular": true,
+  "woff2_same_glyphs": true,
+  "small_cap_bowl_flank": 104.7,
+  "capital_bowl_flank": 118.4
+ }
+}

@@ -1,0 +1,28 @@
+/path/to/scratch/aureate/venv/lib/python3.14/site-packages/fontbakery/fonts_profile.py:103: UserWarning: Failed to load fontbakery.checks.vendorspecific.googlefonts.glyphsets.shape_languages: No module named 'glyphsets'
+  warnings.warn("Failed to load %s: %s" % (import_path, e))
+Start ... running 242 individual check executions.
+All fonts: opentype/STAT/ital_axis: WARN [wrong-ital-axis-linkedvalue]
+AureateRomanTitlingSC-Regular.ttf: alt_caron: WARN [decomposed-outline, None]
+AureateRomanTitlingSC-Bold.ttf: alt_caron: WARN [decomposed-outline, None]
+AureateRomanTitlingSC-Regular.ttf: base_has_width: FAIL [zero-width-bases]
+AureateRomanTitlingSC-Bold.ttf: base_has_width: FAIL [zero-width-bases]
+AureateRomanTitlingSC-Regular.ttf: case_mapping: FAIL [missing-case-counterparts]
+AureateRomanTitlingSC-Bold.ttf: case_mapping: FAIL [missing-case-counterparts]
+AureateRomanTitlingSC-Regular.ttf: contour_count: WARN [contour-count]
+AureateRomanTitlingSC-Bold.ttf: contour_count: WARN [contour-count]
+AureateRomanTitlingSC-Regular.ttf: ligature_carets: WARN [incomplete-caret-pos-data]
+AureateRomanTitlingSC-Bold.ttf: ligature_carets: WARN [incomplete-caret-pos-data]
+AureateRomanTitlingSC-Regular.ttf: linegaps: WARN [hhea]
+AureateRomanTitlingSC-Bold.ttf: linegaps: WARN [hhea]
+AureateRomanTitlingSC-Regular.ttf: math_signs_width: WARN [width-outliers]
+AureateRomanTitlingSC-Bold.ttf: math_signs_width: WARN [width-outliers]
+AureateRomanTitlingSC-Regular.ttf: smallcaps_before_ligatures: FAIL [feature-ordering]
+AureateRomanTitlingSC-Bold.ttf: smallcaps_before_ligatures: FAIL [feature-ordering]
+AureateRomanTitlingSC-Regular.ttf: soft_hyphen: WARN [softhyphen]
+AureateRomanTitlingSC-Bold.ttf: soft_hyphen: WARN [softhyphen]
+AureateRomanTitlingSC-Regular.ttf: typoascender_exceeds_Agrave: WARN [typoAscender]
+AureateRomanTitlingSC-Bold.ttf: typoascender_exceeds_Agrave: WARN [typoAscender]
+AureateRomanTitlingSC-Regular.ttf: unreachable_glyphs: WARN [unreachable-glyphs]
+AureateRomanTitlingSC-Bold.ttf: unreachable_glyphs: WARN [unreachable-glyphs]
+
+ ERROR: 0 FATAL: 0 FAIL: 6 WARN: 17 INFO: 8 SKIP: 68 PASS: 143

@@ -1,0 +1,2679 @@
+{
+ "collection": "1.701",
+ "fonts": {
+  "AureateRomanLiving-Bold.ttf": {
+   "family": "Aureate Roman Living",
+   "style": "Bold",
+   "group": "roman",
+   "contours_cleaned": 11,
+   "extrema_inserted": 40,
+   "spacing_glyphs_shifted": 1393,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     31,
+     35
+    ],
+    "m": [
+     25,
+     25
+    ],
+    "u": [
+     31,
+     35
+    ],
+    "r": [
+     31,
+     45
+    ],
+    "a": [
+     14,
+     14
+    ],
+    "e": [
+     0,
+     20
+    ],
+    "H": [
+     16,
+     16
+    ],
+    "N": [
+     31,
+     79
+    ],
+    "L": [
+     31,
+     87
+    ],
+    "Z": [
+     31,
+     117
+    ],
+    "j": [
+     31,
+     103
+    ]
+   },
+   "figures_centred": {
+    "one": 67
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 553504,
+   "bytes_woff2": 166824
+  },
+  "AureateRomanLiving-BoldItalic.ttf": {
+   "family": "Aureate Roman Living",
+   "style": "Bold Italic",
+   "group": "roman",
+   "contours_cleaned": 7,
+   "extrema_inserted": 143,
+   "spacing_glyphs_shifted": 2910,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     20,
+     40
+    ],
+    "m": [
+     15,
+     29
+    ],
+    "o": [
+     1,
+     0
+    ],
+    "u": [
+     31,
+     30
+    ],
+    "r": [
+     14,
+     32
+    ],
+    "a": [
+     18,
+     7
+    ],
+    "e": [
+     1,
+     0
+    ],
+    "H": [
+     9,
+     23
+    ],
+    "N": [
+     31,
+     60
+    ],
+    "L": [
+     27,
+     73
+    ],
+    "Z": [
+     31,
+     73
+    ],
+    "j": [
+     31,
+     52
+    ]
+   },
+   "figures_centred": {
+    "one": 67
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2023,
+     686
+    ],
+    [
+     2081,
+     694
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 590680,
+   "bytes_woff2": 182996
+  },
+  "AureateRomanLiving-Italic.ttf": {
+   "family": "Aureate Roman Living",
+   "style": "Italic",
+   "group": "roman",
+   "contours_cleaned": 7,
+   "extrema_inserted": 146,
+   "spacing_glyphs_shifted": 2931,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     15,
+     38
+    ],
+    "m": [
+     12,
+     27
+    ],
+    "o": [
+     0,
+     10
+    ],
+    "u": [
+     31,
+     21
+    ],
+    "r": [
+     10,
+     31
+    ],
+    "a": [
+     17,
+     6
+    ],
+    "e": [
+     1,
+     0
+    ],
+    "H": [
+     9,
+     23
+    ],
+    "N": [
+     31,
+     53
+    ],
+    "L": [
+     31,
+     58
+    ],
+    "Z": [
+     31,
+     64
+    ],
+    "j": [
+     31,
+     29
+    ]
+   },
+   "figures_centred": {
+    "one": 62
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2023,
+     686
+    ],
+    [
+     2081,
+     694
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 590704,
+   "bytes_woff2": 183656
+  },
+  "AureateRomanLiving-Regular.ttf": {
+   "family": "Aureate Roman Living",
+   "style": "Regular",
+   "group": "roman",
+   "contours_cleaned": 8,
+   "extrema_inserted": 26,
+   "spacing_glyphs_shifted": 1443,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     28,
+     30
+    ],
+    "m": [
+     21,
+     25
+    ],
+    "o": [
+     0,
+     9
+    ],
+    "u": [
+     30,
+     30
+    ],
+    "r": [
+     26,
+     33
+    ],
+    "a": [
+     13,
+     11
+    ],
+    "e": [
+     0,
+     17
+    ],
+    "H": [
+     16,
+     16
+    ],
+    "N": [
+     31,
+     77
+    ],
+    "L": [
+     31,
+     69
+    ],
+    "Z": [
+     31,
+     103
+    ],
+    "j": [
+     89,
+     17
+    ]
+   },
+   "figures_centred": {
+    "one": 63
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2024,
+     686
+    ],
+    [
+     2081,
+     694
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 547900,
+   "bytes_woff2": 164936
+  },
+  "AureateRomanLivingCondensed-Bold.ttf": {
+   "family": "Aureate Roman Living Condensed",
+   "style": "Bold",
+   "group": "roman",
+   "contours_cleaned": 11,
+   "extrema_inserted": 40,
+   "spacing_glyphs_shifted": 2336,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     29,
+     29
+    ],
+    "m": [
+     23,
+     21
+    ],
+    "u": [
+     28,
+     30
+    ],
+    "r": [
+     30,
+     38
+    ],
+    "a": [
+     17,
+     9
+    ],
+    "e": [
+     0,
+     17
+    ],
+    "H": [
+     17,
+     15
+    ],
+    "N": [
+     31,
+     67
+    ],
+    "L": [
+     31,
+     73
+    ],
+    "Z": [
+     31,
+     101
+    ],
+    "j": [
+     31,
+     87
+    ]
+   },
+   "figures_centred": {
+    "one": 58
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 553704,
+   "bytes_woff2": 179740
+  },
+  "AureateRomanLivingCondensed-BoldItalic.ttf": {
+   "family": "Aureate Roman Living Condensed",
+   "style": "Bold Italic",
+   "group": "roman",
+   "contours_cleaned": 7,
+   "extrema_inserted": 121,
+   "spacing_glyphs_shifted": 2995,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     21,
+     19
+    ],
+    "m": [
+     18,
+     15
+    ],
+    "o": [
+     0,
+     1
+    ],
+    "u": [
+     17,
+     24
+    ],
+    "r": [
+     15,
+     27
+    ],
+    "a": [
+     8,
+     11
+    ],
+    "H": [
+     4,
+     28
+    ],
+    "N": [
+     27,
+     54
+    ],
+    "L": [
+     29,
+     60
+    ],
+    "Z": [
+     31,
+     60
+    ],
+    "j": [
+     31,
+     38
+    ]
+   },
+   "figures_centred": {
+    "one": 68
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2023,
+     686
+    ],
+    [
+     2081,
+     694
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 592360,
+   "bytes_woff2": 189224
+  },
+  "AureateRomanLivingCondensed-Italic.ttf": {
+   "family": "Aureate Roman Living Condensed",
+   "style": "Italic",
+   "group": "roman",
+   "contours_cleaned": 7,
+   "extrema_inserted": 106,
+   "spacing_glyphs_shifted": 2950,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     25,
+     17
+    ],
+    "m": [
+     24,
+     8
+    ],
+    "o": [
+     0,
+     10
+    ],
+    "u": [
+     15,
+     18
+    ],
+    "r": [
+     10,
+     25
+    ],
+    "a": [
+     7,
+     11
+    ],
+    "H": [
+     5,
+     27
+    ],
+    "N": [
+     25,
+     50
+    ],
+    "L": [
+     31,
+     46
+    ],
+    "Z": [
+     30,
+     53
+    ],
+    "j": [
+     31,
+     19
+    ]
+   },
+   "figures_centred": {
+    "one": 53
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2023,
+     686
+    ],
+    [
+     2081,
+     694
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 593720,
+   "bytes_woff2": 189100
+  },
+  "AureateRomanLivingCondensed-Regular.ttf": {
+   "family": "Aureate Roman Living Condensed",
+   "style": "Regular",
+   "group": "roman",
+   "contours_cleaned": 8,
+   "extrema_inserted": 26,
+   "spacing_glyphs_shifted": 2243,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     25,
+     27
+    ],
+    "m": [
+     20,
+     21
+    ],
+    "o": [
+     0,
+     7
+    ],
+    "u": [
+     26,
+     26
+    ],
+    "r": [
+     23,
+     29
+    ],
+    "a": [
+     18,
+     4
+    ],
+    "e": [
+     0,
+     15
+    ],
+    "H": [
+     15,
+     17
+    ],
+    "N": [
+     31,
+     65
+    ],
+    "L": [
+     32,
+     59
+    ],
+    "Z": [
+     31,
+     86
+    ],
+    "j": [
+     83,
+     11
+    ]
+   },
+   "figures_centred": {
+    "one": 54
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2024,
+     686
+    ],
+    [
+     2081,
+     694
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 548452,
+   "bytes_woff2": 176648
+  },
+  "AureateRomanLivingOlympian-Bold.ttf": {
+   "family": "Aureate Roman Living Olympian",
+   "style": "Bold",
+   "group": "roman",
+   "contours_cleaned": 11,
+   "extrema_inserted": 40,
+   "spacing_glyphs_shifted": 2479,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     27,
+     26
+    ],
+    "m": [
+     21,
+     21
+    ],
+    "u": [
+     24,
+     29
+    ],
+    "r": [
+     31,
+     33
+    ],
+    "a": [
+     18,
+     5
+    ],
+    "e": [
+     0,
+     15
+    ],
+    "H": [
+     16,
+     16
+    ],
+    "N": [
+     32,
+     61
+    ],
+    "L": [
+     30,
+     68
+    ],
+    "Z": [
+     31,
+     93
+    ],
+    "j": [
+     30,
+     82
+    ]
+   },
+   "figures_centred": {
+    "one": 54
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 554988,
+   "bytes_woff2": 183076
+  },
+  "AureateRomanLivingOlympian-BoldItalic.ttf": {
+   "family": "Aureate Roman Living Olympian",
+   "style": "Bold Italic",
+   "group": "roman",
+   "contours_cleaned": 7,
+   "extrema_inserted": 1698,
+   "spacing_glyphs_shifted": 3003,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     19,
+     18
+    ],
+    "m": [
+     18,
+     14
+    ],
+    "o": [
+     0,
+     1
+    ],
+    "u": [
+     14,
+     25
+    ],
+    "r": [
+     15,
+     23
+    ],
+    "a": [
+     6,
+     12
+    ],
+    "H": [
+     0,
+     49
+    ],
+    "N": [
+     5,
+     71
+    ],
+    "L": [
+     25,
+     59
+    ],
+    "Z": [
+     8,
+     78
+    ],
+    "j": [
+     26,
+     38
+    ]
+   },
+   "figures_centred": {
+    "one": 90
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2209,
+     779
+    ],
+    [
+     2267,
+     790
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 602732,
+   "bytes_woff2": 192948
+  },
+  "AureateRomanLivingOlympian-Italic.ttf": {
+   "family": "Aureate Roman Living Olympian",
+   "style": "Italic",
+   "group": "roman",
+   "contours_cleaned": 7,
+   "extrema_inserted": 1583,
+   "spacing_glyphs_shifted": 3007,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     25,
+     7
+    ],
+    "m": [
+     23,
+     5
+    ],
+    "o": [
+     0,
+     10
+    ],
+    "u": [
+     12,
+     19
+    ],
+    "r": [
+     15,
+     21
+    ],
+    "a": [
+     6,
+     11
+    ],
+    "H": [
+     0,
+     48
+    ],
+    "N": [
+     3,
+     67
+    ],
+    "L": [
+     31,
+     43
+    ],
+    "Z": [
+     9,
+     70
+    ],
+    "j": [
+     22,
+     25
+    ]
+   },
+   "figures_centred": {
+    "one": 76
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2209,
+     779
+    ],
+    [
+     2267,
+     790
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 602556,
+   "bytes_woff2": 193660
+  },
+  "AureateRomanLivingOlympian-Regular.ttf": {
+   "family": "Aureate Roman Living Olympian",
+   "style": "Regular",
+   "group": "roman",
+   "contours_cleaned": 8,
+   "extrema_inserted": 20,
+   "spacing_glyphs_shifted": 2512,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     23,
+     25
+    ],
+    "m": [
+     18,
+     19
+    ],
+    "o": [
+     0,
+     7
+    ],
+    "u": [
+     22,
+     28
+    ],
+    "r": [
+     25,
+     23
+    ],
+    "a": [
+     19,
+     2
+    ],
+    "e": [
+     0,
+     14
+    ],
+    "H": [
+     15,
+     17
+    ],
+    "N": [
+     31,
+     59
+    ],
+    "L": [
+     31,
+     53
+    ],
+    "Z": [
+     31,
+     81
+    ],
+    "j": [
+     81,
+     7
+    ]
+   },
+   "figures_centred": {
+    "one": 49
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2210,
+     779
+    ],
+    [
+     2267,
+     790
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 549924,
+   "bytes_woff2": 180340
+  },
+  "AureateRomanLivingShort-Bold.ttf": {
+   "family": "Aureate Roman Living Short",
+   "style": "Bold",
+   "group": "roman",
+   "contours_cleaned": 11,
+   "extrema_inserted": 40,
+   "spacing_glyphs_shifted": 1393,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     31,
+     35
+    ],
+    "m": [
+     25,
+     25
+    ],
+    "u": [
+     31,
+     35
+    ],
+    "r": [
+     31,
+     45
+    ],
+    "a": [
+     14,
+     14
+    ],
+    "e": [
+     0,
+     20
+    ],
+    "H": [
+     16,
+     16
+    ],
+    "N": [
+     31,
+     79
+    ],
+    "L": [
+     31,
+     87
+    ],
+    "Z": [
+     31,
+     117
+    ],
+    "j": [
+     31,
+     103
+    ]
+   },
+   "figures_centred": {
+    "one": 67
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 552480,
+   "bytes_woff2": 168008
+  },
+  "AureateRomanLivingShort-BoldItalic.ttf": {
+   "family": "Aureate Roman Living Short",
+   "style": "Bold Italic",
+   "group": "roman",
+   "contours_cleaned": 7,
+   "extrema_inserted": 161,
+   "spacing_glyphs_shifted": 1999,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     20,
+     41
+    ],
+    "m": [
+     15,
+     30
+    ],
+    "o": [
+     1,
+     0
+    ],
+    "u": [
+     31,
+     28
+    ],
+    "r": [
+     14,
+     32
+    ],
+    "a": [
+     18,
+     2
+    ],
+    "e": [
+     1,
+     0
+    ],
+    "H": [
+     9,
+     0
+    ],
+    "N": [
+     31,
+     32
+    ],
+    "L": [
+     27,
+     65
+    ],
+    "Z": [
+     31,
+     45
+    ],
+    "j": [
+     31,
+     8
+    ]
+   },
+   "figures_centred": {
+    "one": 67
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 591892,
+   "bytes_woff2": 184052
+  },
+  "AureateRomanLivingShort-Italic.ttf": {
+   "family": "Aureate Roman Living Short",
+   "style": "Italic",
+   "group": "roman",
+   "contours_cleaned": 7,
+   "extrema_inserted": 176,
+   "spacing_glyphs_shifted": 2015,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     15,
+     38
+    ],
+    "m": [
+     12,
+     27
+    ],
+    "o": [
+     0,
+     10
+    ],
+    "u": [
+     31,
+     20
+    ],
+    "r": [
+     10,
+     31
+    ],
+    "a": [
+     17,
+     1
+    ],
+    "e": [
+     1,
+     0
+    ],
+    "H": [
+     9,
+     0
+    ],
+    "N": [
+     31,
+     25
+    ],
+    "L": [
+     31,
+     50
+    ],
+    "Z": [
+     31,
+     36
+    ],
+    "j": [
+     31,
+     0
+    ]
+   },
+   "figures_centred": {
+    "one": 62
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 592148,
+   "bytes_woff2": 184568
+  },
+  "AureateRomanLivingShort-Regular.ttf": {
+   "family": "Aureate Roman Living Short",
+   "style": "Regular",
+   "group": "roman",
+   "contours_cleaned": 8,
+   "extrema_inserted": 31,
+   "spacing_glyphs_shifted": 1443,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     28,
+     30
+    ],
+    "m": [
+     21,
+     25
+    ],
+    "o": [
+     0,
+     9
+    ],
+    "u": [
+     30,
+     30
+    ],
+    "r": [
+     26,
+     33
+    ],
+    "a": [
+     13,
+     11
+    ],
+    "e": [
+     0,
+     17
+    ],
+    "H": [
+     16,
+     16
+    ],
+    "N": [
+     31,
+     77
+    ],
+    "L": [
+     31,
+     69
+    ],
+    "Z": [
+     31,
+     103
+    ],
+    "j": [
+     89,
+     17
+    ]
+   },
+   "figures_centred": {
+    "one": 63
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 547012,
+   "bytes_woff2": 166300
+  },
+  "AureateRomanLivingTall-Bold.ttf": {
+   "family": "Aureate Roman Living Tall",
+   "style": "Bold",
+   "group": "roman",
+   "contours_cleaned": 11,
+   "extrema_inserted": 40,
+   "spacing_glyphs_shifted": 1393,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     31,
+     35
+    ],
+    "m": [
+     25,
+     25
+    ],
+    "u": [
+     31,
+     35
+    ],
+    "r": [
+     31,
+     45
+    ],
+    "a": [
+     14,
+     14
+    ],
+    "e": [
+     0,
+     20
+    ],
+    "H": [
+     16,
+     16
+    ],
+    "N": [
+     31,
+     79
+    ],
+    "L": [
+     31,
+     87
+    ],
+    "Z": [
+     31,
+     117
+    ],
+    "j": [
+     31,
+     103
+    ]
+   },
+   "figures_centred": {
+    "one": 67
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 554928,
+   "bytes_woff2": 169272
+  },
+  "AureateRomanLivingTall-BoldItalic.ttf": {
+   "family": "Aureate Roman Living Tall",
+   "style": "Bold Italic",
+   "group": "roman",
+   "contours_cleaned": 7,
+   "extrema_inserted": 371,
+   "spacing_glyphs_shifted": 2899,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     20,
+     40
+    ],
+    "m": [
+     15,
+     29
+    ],
+    "o": [
+     1,
+     0
+    ],
+    "u": [
+     31,
+     33
+    ],
+    "r": [
+     14,
+     33
+    ],
+    "a": [
+     18,
+     14
+    ],
+    "e": [
+     1,
+     0
+    ],
+    "H": [
+     9,
+     58
+    ],
+    "N": [
+     31,
+     95
+    ],
+    "L": [
+     27,
+     84
+    ],
+    "Z": [
+     31,
+     108
+    ],
+    "j": [
+     31,
+     130
+    ]
+   },
+   "figures_centred": {
+    "one": 67
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2209,
+     779
+    ],
+    [
+     2267,
+     790
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 597240,
+   "bytes_woff2": 187192
+  },
+  "AureateRomanLivingTall-Italic.ttf": {
+   "family": "Aureate Roman Living Tall",
+   "style": "Italic",
+   "group": "roman",
+   "contours_cleaned": 7,
+   "extrema_inserted": 320,
+   "spacing_glyphs_shifted": 2914,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     15,
+     36
+    ],
+    "m": [
+     12,
+     26
+    ],
+    "o": [
+     0,
+     10
+    ],
+    "u": [
+     31,
+     23
+    ],
+    "r": [
+     10,
+     32
+    ],
+    "a": [
+     17,
+     13
+    ],
+    "e": [
+     1,
+     0
+    ],
+    "H": [
+     9,
+     58
+    ],
+    "N": [
+     31,
+     88
+    ],
+    "L": [
+     31,
+     68
+    ],
+    "Z": [
+     31,
+     99
+    ],
+    "j": [
+     31,
+     102
+    ]
+   },
+   "figures_centred": {
+    "one": 62
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2209,
+     779
+    ],
+    [
+     2267,
+     790
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 597480,
+   "bytes_woff2": 187596
+  },
+  "AureateRomanLivingTall-Regular.ttf": {
+   "family": "Aureate Roman Living Tall",
+   "style": "Regular",
+   "group": "roman",
+   "contours_cleaned": 8,
+   "extrema_inserted": 23,
+   "spacing_glyphs_shifted": 1443,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     28,
+     30
+    ],
+    "m": [
+     21,
+     25
+    ],
+    "o": [
+     0,
+     9
+    ],
+    "u": [
+     30,
+     30
+    ],
+    "r": [
+     26,
+     33
+    ],
+    "a": [
+     13,
+     11
+    ],
+    "e": [
+     0,
+     17
+    ],
+    "H": [
+     16,
+     16
+    ],
+    "N": [
+     31,
+     77
+    ],
+    "L": [
+     31,
+     69
+    ],
+    "Z": [
+     31,
+     103
+    ],
+    "j": [
+     89,
+     17
+    ]
+   },
+   "figures_centred": {
+    "one": 63
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2210,
+     779
+    ],
+    [
+     2267,
+     790
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 549244,
+   "bytes_woff2": 167084
+  },
+  "AureateRomanLivingVariable-Bold.ttf": {
+   "family": "Aureate Roman Living Variable",
+   "style": "Bold",
+   "group": "roman",
+   "contours_cleaned": 0,
+   "extrema_inserted": 0,
+   "spacing_glyphs_shifted": 1393,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     31,
+     35
+    ],
+    "m": [
+     25,
+     25
+    ],
+    "u": [
+     31,
+     35
+    ],
+    "r": [
+     31,
+     45
+    ],
+    "a": [
+     14,
+     14
+    ],
+    "e": [
+     0,
+     20
+    ],
+    "H": [
+     16,
+     16
+    ],
+    "N": [
+     31,
+     79
+    ],
+    "L": [
+     31,
+     87
+    ],
+    "Z": [
+     31,
+     117
+    ],
+    "j": [
+     31,
+     103
+    ]
+   },
+   "figures_centred": {
+    "one": 67
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "vf_instances": [
+    "Condensed",
+    "Calm",
+    "Bold"
+   ],
+   "bytes_ttf": 760012,
+   "bytes_woff2": 255540
+  },
+  "AureateRomanLivingVariable-BoldItalic.ttf": {
+   "family": "Aureate Roman Living Variable",
+   "style": "Bold Italic",
+   "group": "roman",
+   "contours_cleaned": 0,
+   "extrema_inserted": 0,
+   "spacing_glyphs_shifted": 2910,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     20,
+     40
+    ],
+    "m": [
+     15,
+     29
+    ],
+    "o": [
+     1,
+     0
+    ],
+    "u": [
+     31,
+     30
+    ],
+    "r": [
+     14,
+     32
+    ],
+    "a": [
+     18,
+     7
+    ],
+    "e": [
+     1,
+     0
+    ],
+    "H": [
+     9,
+     23
+    ],
+    "N": [
+     31,
+     60
+    ],
+    "L": [
+     27,
+     73
+    ],
+    "Z": [
+     31,
+     73
+    ],
+    "j": [
+     31,
+     52
+    ]
+   },
+   "figures_centred": {
+    "one": 67
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2023,
+     686
+    ],
+    [
+     2081,
+     694
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "vf_instances": [
+    "Condensed",
+    "Calm",
+    "Bold Italic"
+   ],
+   "bytes_ttf": 833132,
+   "bytes_woff2": 298660
+  },
+  "AureateRomanLivingVariable-Italic.ttf": {
+   "family": "Aureate Roman Living Variable",
+   "style": "Italic",
+   "group": "roman",
+   "contours_cleaned": 0,
+   "extrema_inserted": 0,
+   "spacing_glyphs_shifted": 2931,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     15,
+     38
+    ],
+    "m": [
+     12,
+     27
+    ],
+    "o": [
+     0,
+     10
+    ],
+    "u": [
+     31,
+     21
+    ],
+    "r": [
+     10,
+     31
+    ],
+    "a": [
+     17,
+     6
+    ],
+    "e": [
+     1,
+     0
+    ],
+    "H": [
+     9,
+     23
+    ],
+    "N": [
+     31,
+     53
+    ],
+    "L": [
+     31,
+     58
+    ],
+    "Z": [
+     31,
+     64
+    ],
+    "j": [
+     31,
+     29
+    ]
+   },
+   "figures_centred": {
+    "one": 62
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2023,
+     686
+    ],
+    [
+     2081,
+     694
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "vf_instances": [
+    "Condensed",
+    "Calm",
+    "Italic"
+   ],
+   "bytes_ttf": 832636,
+   "bytes_woff2": 299064
+  },
+  "AureateRomanLivingVariable-Regular.ttf": {
+   "family": "Aureate Roman Living Variable",
+   "style": "Regular",
+   "group": "roman",
+   "contours_cleaned": 0,
+   "extrema_inserted": 0,
+   "spacing_glyphs_shifted": 1443,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     28,
+     30
+    ],
+    "m": [
+     21,
+     25
+    ],
+    "o": [
+     0,
+     9
+    ],
+    "u": [
+     30,
+     30
+    ],
+    "r": [
+     26,
+     33
+    ],
+    "a": [
+     13,
+     11
+    ],
+    "e": [
+     0,
+     17
+    ],
+    "H": [
+     16,
+     16
+    ],
+    "N": [
+     31,
+     77
+    ],
+    "L": [
+     31,
+     69
+    ],
+    "Z": [
+     31,
+     103
+    ],
+    "j": [
+     89,
+     17
+    ]
+   },
+   "figures_centred": {
+    "one": 63
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2024,
+     686
+    ],
+    [
+     2081,
+     694
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "vf_instances": [
+    "Condensed",
+    "Calm",
+    "Regular"
+   ],
+   "bytes_ttf": 748908,
+   "bytes_woff2": 249964
+  },
+  "AureateRomanMonumental-Bold.ttf": {
+   "family": "Aureate Roman Monumental",
+   "style": "Bold",
+   "group": "roman",
+   "contours_cleaned": 11,
+   "extrema_inserted": 40,
+   "spacing_glyphs_shifted": 2419,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     31,
+     39
+    ],
+    "m": [
+     25,
+     27
+    ],
+    "u": [
+     31,
+     39
+    ],
+    "r": [
+     31,
+     50
+    ],
+    "a": [
+     13,
+     17
+    ],
+    "e": [
+     0,
+     22
+    ],
+    "H": [
+     17,
+     15
+    ],
+    "N": [
+     31,
+     87
+    ],
+    "L": [
+     31,
+     93
+    ],
+    "Z": [
+     31,
+     127
+    ],
+    "j": [
+     30,
+     112
+    ]
+   },
+   "figures_centred": {
+    "one": 72
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 560024,
+   "bytes_woff2": 182164
+  },
+  "AureateRomanMonumental-BoldItalic.ttf": {
+   "family": "Aureate Roman Monumental",
+   "style": "Bold Italic",
+   "group": "roman",
+   "contours_cleaned": 7,
+   "extrema_inserted": 490,
+   "spacing_glyphs_shifted": 3014,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     12,
+     53
+    ],
+    "m": [
+     7,
+     39
+    ],
+    "o": [
+     1,
+     0
+    ],
+    "u": [
+     31,
+     33
+    ],
+    "r": [
+     28,
+     33
+    ],
+    "a": [
+     27,
+     0
+    ],
+    "e": [
+     3,
+     0
+    ],
+    "H": [
+     0,
+     38
+    ],
+    "N": [
+     25,
+     72
+    ],
+    "L": [
+     21,
+     87
+    ],
+    "Z": [
+     31,
+     81
+    ],
+    "j": [
+     31,
+     51
+    ]
+   },
+   "figures_centred": {
+    "one": 76
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2209,
+     779
+    ],
+    [
+     2267,
+     790
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 600876,
+   "bytes_woff2": 195040
+  },
+  "AureateRomanMonumental-Italic.ttf": {
+   "family": "Aureate Roman Monumental",
+   "style": "Italic",
+   "group": "roman",
+   "contours_cleaned": 7,
+   "extrema_inserted": 378,
+   "spacing_glyphs_shifted": 3002,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     8,
+     51
+    ],
+    "m": [
+     2,
+     40
+    ],
+    "o": [
+     0,
+     10
+    ],
+    "u": [
+     31,
+     24
+    ],
+    "r": [
+     24,
+     30
+    ],
+    "a": [
+     26,
+     0
+    ],
+    "e": [
+     3,
+     0
+    ],
+    "H": [
+     0,
+     38
+    ],
+    "N": [
+     22,
+     68
+    ],
+    "L": [
+     28,
+     66
+    ],
+    "Z": [
+     32,
+     68
+    ],
+    "j": [
+     31,
+     28
+    ]
+   },
+   "figures_centred": {
+    "one": 72
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2209,
+     779
+    ],
+    [
+     2267,
+     790
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 600804,
+   "bytes_woff2": 196088
+  },
+  "AureateRomanMonumental-Regular.ttf": {
+   "family": "Aureate Roman Monumental",
+   "style": "Regular",
+   "group": "roman",
+   "contours_cleaned": 8,
+   "extrema_inserted": 20,
+   "spacing_glyphs_shifted": 2408,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     28,
+     34
+    ],
+    "m": [
+     24,
+     26
+    ],
+    "o": [
+     0,
+     9
+    ],
+    "u": [
+     30,
+     34
+    ],
+    "r": [
+     31,
+     32
+    ],
+    "a": [
+     11,
+     15
+    ],
+    "e": [
+     0,
+     18
+    ],
+    "H": [
+     16,
+     16
+    ],
+    "N": [
+     31,
+     83
+    ],
+    "L": [
+     31,
+     77
+    ],
+    "Z": [
+     31,
+     111
+    ],
+    "j": [
+     91,
+     20
+    ]
+   },
+   "figures_centred": {
+    "one": 68
+   },
+   "figure_kern_pairs_removed": 2,
+   "notdef_drawn": true,
+   "win_metrics": [
+    [
+     2210,
+     779
+    ],
+    [
+     2267,
+     790
+    ]
+   ],
+   "prep_added": true,
+   "gdef_sofpasuq_base": true,
+   "stat_added": true,
+   "bytes_ttf": 554996,
+   "bytes_woff2": 180108
+  },
+  "AureateSans-Bold.ttf": {
+   "family": "Aureate Sans",
+   "style": "Bold",
+   "group": "sans",
+   "contours_cleaned": 1,
+   "extrema_inserted": 20,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 484436,
+   "bytes_woff2": 140488
+  },
+  "AureateSans-BoldItalic.ttf": {
+   "family": "Aureate Sans",
+   "style": "Bold Italic",
+   "group": "sans",
+   "contours_cleaned": 6,
+   "extrema_inserted": 939,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     2020,
+     641
+    ],
+    [
+     2020,
+     647
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 455840,
+   "bytes_woff2": 138472
+  },
+  "AureateSans-Italic.ttf": {
+   "family": "Aureate Sans",
+   "style": "Italic",
+   "group": "sans",
+   "contours_cleaned": 1,
+   "extrema_inserted": 993,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     1950,
+     604
+    ],
+    [
+     2020,
+     647
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 457468,
+   "bytes_woff2": 140188
+  },
+  "AureateSans-Regular.ttf": {
+   "family": "Aureate Sans",
+   "style": "Regular",
+   "group": "sans",
+   "contours_cleaned": 0,
+   "extrema_inserted": 27,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     1952,
+     604
+    ],
+    [
+     2020,
+     647
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 485452,
+   "bytes_woff2": 141616
+  },
+  "AureateSansCondensed-Bold.ttf": {
+   "family": "Aureate Sans Condensed",
+   "style": "Bold",
+   "group": "sans",
+   "contours_cleaned": 1,
+   "extrema_inserted": 20,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 484780,
+   "bytes_woff2": 148280
+  },
+  "AureateSansCondensed-BoldItalic.ttf": {
+   "family": "Aureate Sans Condensed",
+   "style": "Bold Italic",
+   "group": "sans",
+   "contours_cleaned": 6,
+   "extrema_inserted": 1024,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     2020,
+     641
+    ],
+    [
+     2020,
+     647
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 457948,
+   "bytes_woff2": 147388
+  },
+  "AureateSansCondensed-Italic.ttf": {
+   "family": "Aureate Sans Condensed",
+   "style": "Italic",
+   "group": "sans",
+   "contours_cleaned": 1,
+   "extrema_inserted": 1024,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     1950,
+     604
+    ],
+    [
+     2020,
+     647
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 459356,
+   "bytes_woff2": 147620
+  },
+  "AureateSansCondensed-Regular.ttf": {
+   "family": "Aureate Sans Condensed",
+   "style": "Regular",
+   "group": "sans",
+   "contours_cleaned": 0,
+   "extrema_inserted": 30,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     1952,
+     604
+    ],
+    [
+     2020,
+     647
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 485656,
+   "bytes_woff2": 148068
+  },
+  "AureateSansGeometric-Bold.ttf": {
+   "family": "Aureate Sans Geometric",
+   "style": "Bold",
+   "group": "geometric",
+   "contours_cleaned": 1,
+   "extrema_inserted": 34,
+   "geometric_retained_scale": 0.9699,
+   "spacing_glyphs_shifted": 548,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     76,
+     65
+    ],
+    "m": [
+     76,
+     66
+    ],
+    "o": [
+     19,
+     19
+    ],
+    "a": [
+     30,
+     64
+    ],
+    "e": [
+     19,
+     23
+    ]
+   },
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 555884,
+   "bytes_woff2": 153216
+  },
+  "AureateSansGeometric-BoldItalic.ttf": {
+   "family": "Aureate Sans Geometric",
+   "style": "Bold Italic",
+   "group": "geometric",
+   "contours_cleaned": 2,
+   "extrema_inserted": 1432,
+   "geometric_retained_scale": 0.9841,
+   "spacing_glyphs_shifted": 66,
+   "composites_following": 0,
+   "spacing_sample": {},
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     2242,
+     717
+    ],
+    [
+     2242,
+     731
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 524308,
+   "bytes_woff2": 153112
+  },
+  "AureateSansGeometric-Italic.ttf": {
+   "family": "Aureate Sans Geometric",
+   "style": "Italic",
+   "group": "geometric",
+   "contours_cleaned": 1,
+   "extrema_inserted": 1327,
+   "geometric_retained_scale": 0.9722,
+   "spacing_glyphs_shifted": 40,
+   "composites_following": 0,
+   "spacing_sample": {},
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     2185,
+     674
+    ],
+    [
+     2242,
+     731
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 527176,
+   "bytes_woff2": 153052
+  },
+  "AureateSansGeometric-Regular.ttf": {
+   "family": "Aureate Sans Geometric",
+   "style": "Regular",
+   "group": "geometric",
+   "contours_cleaned": 0,
+   "extrema_inserted": 35,
+   "geometric_retained_scale": 0.9717,
+   "spacing_glyphs_shifted": 619,
+   "composites_following": 0,
+   "spacing_sample": {
+    "n": [
+     113,
+     101
+    ],
+    "m": [
+     113,
+     102
+    ],
+    "o": [
+     41,
+     41
+    ],
+    "a": [
+     51,
+     91
+    ],
+    "e": [
+     39,
+     27
+    ]
+   },
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     2185,
+     688
+    ],
+    [
+     2242,
+     731
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 557884,
+   "bytes_woff2": 150952
+  },
+  "AureateSansShort-Bold.ttf": {
+   "family": "Aureate Sans Short",
+   "style": "Bold",
+   "group": "sans",
+   "contours_cleaned": 1,
+   "extrema_inserted": 20,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 483900,
+   "bytes_woff2": 140344
+  },
+  "AureateSansShort-BoldItalic.ttf": {
+   "family": "Aureate Sans Short",
+   "style": "Bold Italic",
+   "group": "sans",
+   "contours_cleaned": 6,
+   "extrema_inserted": 933,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     2019,
+     641
+    ],
+    [
+     2019,
+     647
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 455004,
+   "bytes_woff2": 138176
+  },
+  "AureateSansShort-Italic.ttf": {
+   "family": "Aureate Sans Short",
+   "style": "Italic",
+   "group": "sans",
+   "contours_cleaned": 1,
+   "extrema_inserted": 983,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     1944,
+     604
+    ],
+    [
+     2019,
+     647
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 455708,
+   "bytes_woff2": 139724
+  },
+  "AureateSansShort-Regular.ttf": {
+   "family": "Aureate Sans Short",
+   "style": "Regular",
+   "group": "sans",
+   "contours_cleaned": 0,
+   "extrema_inserted": 27,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     1944,
+     604
+    ],
+    [
+     2019,
+     647
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 485212,
+   "bytes_woff2": 141236
+  },
+  "AureateSansTall-Bold.ttf": {
+   "family": "Aureate Sans Tall",
+   "style": "Bold",
+   "group": "sans",
+   "contours_cleaned": 1,
+   "extrema_inserted": 20,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 485548,
+   "bytes_woff2": 141628
+  },
+  "AureateSansTall-BoldItalic.ttf": {
+   "family": "Aureate Sans Tall",
+   "style": "Bold Italic",
+   "group": "sans",
+   "contours_cleaned": 6,
+   "extrema_inserted": 1437,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     2139,
+     717
+    ],
+    [
+     2139,
+     731
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 460564,
+   "bytes_woff2": 140144
+  },
+  "AureateSansTall-Italic.ttf": {
+   "family": "Aureate Sans Tall",
+   "style": "Italic",
+   "group": "sans",
+   "contours_cleaned": 1,
+   "extrema_inserted": 1231,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     2069,
+     674
+    ],
+    [
+     2139,
+     731
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 460276,
+   "bytes_woff2": 141504
+  },
+  "AureateSansTall-Regular.ttf": {
+   "family": "Aureate Sans Tall",
+   "style": "Regular",
+   "group": "sans",
+   "contours_cleaned": 0,
+   "extrema_inserted": 29,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     2071,
+     688
+    ],
+    [
+     2139,
+     731
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "stat_added": true,
+   "bytes_ttf": 486320,
+   "bytes_woff2": 142416
+  },
+  "AureateSansVariable-Bold.ttf": {
+   "family": "Aureate Sans Variable",
+   "style": "Bold",
+   "group": "sans",
+   "contours_cleaned": 0,
+   "extrema_inserted": 0,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "vf_instances": [
+    "Condensed",
+    "Calm",
+    "Bold"
+   ],
+   "bytes_ttf": 799408,
+   "bytes_woff2": 189876
+  },
+  "AureateSansVariable-BoldItalic.ttf": {
+   "family": "Aureate Sans Variable",
+   "style": "Bold Italic",
+   "group": "sans",
+   "contours_cleaned": 0,
+   "extrema_inserted": 0,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     2020,
+     641
+    ],
+    [
+     2020,
+     647
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "vf_instances": [
+    "Condensed",
+    "Calm",
+    "Bold Italic"
+   ],
+   "bytes_ttf": 641684,
+   "bytes_woff2": 196236
+  },
+  "AureateSansVariable-Italic.ttf": {
+   "family": "Aureate Sans Variable",
+   "style": "Italic",
+   "group": "sans",
+   "contours_cleaned": 0,
+   "extrema_inserted": 0,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     1950,
+     604
+    ],
+    [
+     2020,
+     647
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "vf_instances": [
+    "Condensed",
+    "Calm",
+    "Italic"
+   ],
+   "bytes_ttf": 642080,
+   "bytes_woff2": 196380
+  },
+  "AureateSansVariable-Regular.ttf": {
+   "family": "Aureate Sans Variable",
+   "style": "Regular",
+   "group": "sans",
+   "contours_cleaned": 0,
+   "extrema_inserted": 0,
+   "figures_centred": {},
+   "figure_kern_pairs_removed": 0,
+   "win_metrics": [
+    [
+     1952,
+     604
+    ],
+    [
+     2020,
+     647
+    ]
+   ],
+   "prep_added": true,
+   "gdef_cgj_mark": true,
+   "vf_instances": [
+    "Condensed",
+    "Calm",
+    "Regular"
+   ],
+   "bytes_ttf": 800880,
+   "bytes_woff2": 189456
+  }
+ }
+}

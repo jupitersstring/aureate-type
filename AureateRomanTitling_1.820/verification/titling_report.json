@@ -1,0 +1,800 @@
+{
+ "version": "1.820",
+ "envelope": 0.7861513777574233,
+ "track": 81,
+ "fonts": {
+  "Regular": {
+   "source": "AureateRomanLivingTall-Regular.ttf",
+   "layout_values_scaled": 18699,
+   "glyphs_eligible": 2577,
+   "stem_roman": 192.0,
+   "hairline_law": 73.34,
+   "hairline": 72.0,
+   "stem_target": 116.5,
+   "law_k": 0.3708,
+   "glyphs_off_their_lines_after_reweighting": 2,
+   "off_line_sample": [
+    [
+     "upsilon",
+     -8,
+     0
+    ],
+    [
+     "uniA718",
+     0,
+     4
+    ]
+   ],
+   "fallback_glyphs": 726,
+   "fallback_sample": [
+    "two",
+    "three",
+    "five",
+    "six",
+    "nine",
+    "G",
+    "J",
+    "L",
+    "Z",
+    "b",
+    "j",
+    "k",
+    "r",
+    "threesuperior",
+    "mu",
+    "AE",
+    "Ccedilla",
+    "atilde",
+    "aring",
+    "ntilde",
+    "thorn",
+    "dcroat",
+    "Eogonek",
+    "Gcircumflex",
+    "Gbreve",
+    "Gdotaccent",
+    "Gcommaaccent",
+    "gcommaaccent",
+    "IJ",
+    "Jcircumflex",
+    "jcircumflex",
+    "kcommaaccent",
+    "kgreenlandic",
+    "Lacute",
+    "Lcommaaccent",
+    "Lcaron",
+    "Ncommaaccent",
+    "ncommaaccent",
+    "Eng",
+    "OE"
+   ],
+   "figure_extents": {
+    "zero": [
+     -24,
+     1489
+    ],
+    "one": [
+     0,
+     1471
+    ],
+    "two": [
+     0,
+     1478
+    ],
+    "three": [
+     -25,
+     1478
+    ],
+    "four": [
+     0,
+     1465
+    ],
+    "five": [
+     -25,
+     1453
+    ],
+    "six": [
+     -24,
+     1478
+    ],
+    "seven": [
+     0,
+     1453
+    ],
+    "eight": [
+     -24,
+     1489
+    ],
+    "nine": [
+     -24,
+     1478
+    ]
+   },
+   "points_reweighted": 55645,
+   "apexes_pointed": 358,
+   "stem_after": 117.0,
+   "serif_ends_pointed": 6794,
+   "beaks_pointed": 1888,
+   "glyphs_changed": 2207,
+   "figures_lined": {
+    "zero": [
+     [
+      -24,
+      1489
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "two": [
+     [
+      0,
+      1478
+     ],
+     [
+      0,
+      1484
+     ]
+    ],
+    "three": [
+     [
+      -25,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "four": [
+     [
+      0,
+      1496
+     ],
+     [
+      0,
+      1484
+     ]
+    ],
+    "five": [
+     [
+      -25,
+      1453
+     ],
+     [
+      -31,
+      1453
+     ]
+    ],
+    "six": [
+     [
+      -24,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "eight": [
+     [
+      -24,
+      1489
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "nine": [
+     [
+      -24,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "zero.aurlnum.tnum": [
+     [
+      -24,
+      1489
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "zero.aurlnum.pnum": [
+     [
+      -24,
+      1489
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "two.aurlnum.tnum": [
+     [
+      0,
+      1478
+     ],
+     [
+      0,
+      1484
+     ]
+    ],
+    "two.aurlnum.pnum": [
+     [
+      0,
+      1478
+     ],
+     [
+      0,
+      1484
+     ]
+    ],
+    "three.aurlnum.tnum": [
+     [
+      -25,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "three.aurlnum.pnum": [
+     [
+      -25,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "four.aurlnum.tnum": [
+     [
+      0,
+      1496
+     ],
+     [
+      0,
+      1484
+     ]
+    ],
+    "four.aurlnum.pnum": [
+     [
+      0,
+      1496
+     ],
+     [
+      0,
+      1484
+     ]
+    ],
+    "five.aurlnum.tnum": [
+     [
+      -25,
+      1453
+     ],
+     [
+      -31,
+      1453
+     ]
+    ],
+    "five.aurlnum.pnum": [
+     [
+      -25,
+      1453
+     ],
+     [
+      -31,
+      1453
+     ]
+    ],
+    "six.aurlnum.tnum": [
+     [
+      -24,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "six.aurlnum.pnum": [
+     [
+      -24,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "eight.aurlnum.tnum": [
+     [
+      -24,
+      1489
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "eight.aurlnum.pnum": [
+     [
+      -24,
+      1489
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "nine.aurlnum.tnum": [
+     [
+      -24,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "nine.aurlnum.pnum": [
+     [
+      -24,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ]
+   },
+   "sc_codepoints_remapped": 640,
+   "sample": {
+    "H": [
+     1269,
+     53,
+     55
+    ],
+    "O": [
+     1245,
+     128,
+     126
+    ],
+    "A": [
+     1244,
+     11,
+     8
+    ],
+    "I": [
+     642,
+     65,
+     64
+    ],
+    "E": [
+     1071,
+     61,
+     118
+    ],
+    "n": [
+     932,
+     36,
+     32
+    ],
+    "H.aursc": [
+     969,
+     50,
+     52
+    ]
+   }
+  },
+  "Bold": {
+   "source": "AureateRomanLivingTall-Bold.ttf",
+   "layout_values_scaled": 18887,
+   "glyphs_eligible": 2577,
+   "stem_roman": 315.0,
+   "hairline_law": 120.32,
+   "hairline": 86.0,
+   "stem_target": 188.5,
+   "law_k": 0.4476,
+   "glyphs_off_their_lines_after_reweighting": 3,
+   "off_line_sample": [
+    [
+     "uni0289",
+     0,
+     3
+    ],
+    [
+     "upsilon",
+     -17,
+     0
+    ],
+    [
+     "uniA718",
+     0,
+     3
+    ]
+   ],
+   "fallback_glyphs": 812,
+   "fallback_sample": [
+    "ampersand",
+    "three",
+    "five",
+    "J",
+    "Q",
+    "W",
+    "b",
+    "c",
+    "d",
+    "g",
+    "h",
+    "j",
+    "m",
+    "n",
+    "q",
+    "r",
+    "w",
+    "ordfeminine",
+    "twosuperior",
+    "threesuperior",
+    "mu",
+    "onehalf",
+    "threequarters",
+    "atilde",
+    "aring",
+    "ccedilla",
+    "ntilde",
+    "otilde",
+    "oslash",
+    "abreve",
+    "Aogonek",
+    "aogonek",
+    "cacute",
+    "cdotaccent",
+    "ccaron",
+    "ebreve",
+    "Eogonek",
+    "eogonek",
+    "gcircumflex",
+    "gbreve"
+   ],
+   "figure_extents": {
+    "zero": [
+     -24,
+     1489
+    ],
+    "one": [
+     0,
+     1471
+    ],
+    "two": [
+     0,
+     1478
+    ],
+    "three": [
+     -25,
+     1478
+    ],
+    "four": [
+     0,
+     1465
+    ],
+    "five": [
+     -25,
+     1453
+    ],
+    "six": [
+     -24,
+     1478
+    ],
+    "seven": [
+     0,
+     1453
+    ],
+    "eight": [
+     -24,
+     1489
+    ],
+    "nine": [
+     -24,
+     1478
+    ]
+   },
+   "points_reweighted": 58651,
+   "apexes_pointed": 373,
+   "stem_after": 188.0,
+   "serif_ends_pointed": 6930,
+   "beaks_pointed": 1823,
+   "glyphs_changed": 2195,
+   "figures_lined": {
+    "zero": [
+     [
+      -24,
+      1489
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "two": [
+     [
+      0,
+      1478
+     ],
+     [
+      0,
+      1484
+     ]
+    ],
+    "three": [
+     [
+      -25,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "four": [
+     [
+      0,
+      1465
+     ],
+     [
+      0,
+      1453
+     ]
+    ],
+    "five": [
+     [
+      -25,
+      1453
+     ],
+     [
+      -31,
+      1453
+     ]
+    ],
+    "six": [
+     [
+      -24,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "eight": [
+     [
+      -24,
+      1489
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "nine": [
+     [
+      -24,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "zero.aurlnum.tnum": [
+     [
+      -24,
+      1489
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "zero.aurlnum.pnum": [
+     [
+      -24,
+      1489
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "two.aurlnum.tnum": [
+     [
+      0,
+      1478
+     ],
+     [
+      0,
+      1484
+     ]
+    ],
+    "two.aurlnum.pnum": [
+     [
+      0,
+      1478
+     ],
+     [
+      0,
+      1484
+     ]
+    ],
+    "three.aurlnum.tnum": [
+     [
+      -25,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "three.aurlnum.pnum": [
+     [
+      -25,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "four.aurlnum.tnum": [
+     [
+      0,
+      1465
+     ],
+     [
+      0,
+      1453
+     ]
+    ],
+    "four.aurlnum.pnum": [
+     [
+      0,
+      1465
+     ],
+     [
+      0,
+      1453
+     ]
+    ],
+    "five.aurlnum.tnum": [
+     [
+      -25,
+      1453
+     ],
+     [
+      -31,
+      1453
+     ]
+    ],
+    "five.aurlnum.pnum": [
+     [
+      -25,
+      1453
+     ],
+     [
+      -31,
+      1453
+     ]
+    ],
+    "six.aurlnum.tnum": [
+     [
+      -24,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "six.aurlnum.pnum": [
+     [
+      -24,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "eight.aurlnum.tnum": [
+     [
+      -24,
+      1489
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "eight.aurlnum.pnum": [
+     [
+      -24,
+      1489
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "nine.aurlnum.tnum": [
+     [
+      -24,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ],
+    "nine.aurlnum.pnum": [
+     [
+      -24,
+      1478
+     ],
+     [
+      -31,
+      1484
+     ]
+    ]
+   },
+   "sc_codepoints_remapped": 640,
+   "sample": {
+    "H": [
+     1358,
+     35,
+     34
+    ],
+    "O": [
+     1335,
+     150,
+     148
+    ],
+    "A": [
+     1244,
+     -6,
+     -9
+    ],
+    "I": [
+     733,
+     61,
+     63
+    ],
+    "E": [
+     1163,
+     32,
+     120
+    ],
+    "n": [
+     1028,
+     24,
+     16
+    ],
+    "H.aursc": [
+     1031,
+     33,
+     34
+    ]
+   }
+  }
+ }
+}

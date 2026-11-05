@@ -1,0 +1,1862 @@
+{
+ "AureateRomanLiving-Bold.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 151097,
+  "pangram_width_new": 154502,
+  "width_change_pct": 2.254,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -113,
+  "fig11_kern_new": 0,
+  "degenerate_old": 4,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3397,
+   3397
+  ],
+  "bytes_old_new": [
+   554808,
+   553504
+  ]
+ },
+ "AureateRomanLiving-BoldItalic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 146989,
+  "pangram_width_new": 149907,
+  "width_change_pct": 1.985,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -113,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3400,
+   3400
+  ],
+  "bytes_old_new": [
+   591408,
+   590680
+  ]
+ },
+ "AureateRomanLiving-Italic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 142091,
+  "pangram_width_new": 145038,
+  "width_change_pct": 2.074,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -152,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3405,
+   3405
+  ],
+  "bytes_old_new": [
+   591416,
+   590704
+  ]
+ },
+ "AureateRomanLiving-Regular.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 144284,
+  "pangram_width_new": 147201,
+  "width_change_pct": 2.022,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -76,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3397,
+   3397
+  ],
+  "bytes_old_new": [
+   549180,
+   547900
+  ]
+ },
+ "AureateRomanLivingCondensed-Bold.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 135213,
+  "pangram_width_new": 138297,
+  "width_change_pct": 2.281,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -103,
+  "fig11_kern_new": 0,
+  "degenerate_old": 4,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3397,
+   3397
+  ],
+  "bytes_old_new": [
+   555076,
+   553704
+  ]
+ },
+ "AureateRomanLivingCondensed-BoldItalic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 135001,
+  "pangram_width_new": 137549,
+  "width_change_pct": 1.887,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -103,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3400,
+   3400
+  ],
+  "bytes_old_new": [
+   593348,
+   592360
+  ]
+ },
+ "AureateRomanLivingCondensed-Italic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 130277,
+  "pangram_width_new": 132968,
+  "width_change_pct": 2.066,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -139,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3405,
+   3405
+  ],
+  "bytes_old_new": [
+   594740,
+   593720
+  ]
+ },
+ "AureateRomanLivingCondensed-Regular.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 129239,
+  "pangram_width_new": 131899,
+  "width_change_pct": 2.058,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -69,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3397,
+   3397
+  ],
+  "bytes_old_new": [
+   549864,
+   548452
+  ]
+ },
+ "AureateRomanLivingOlympian-Bold.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 127456,
+  "pangram_width_new": 130577,
+  "width_change_pct": 2.449,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -99,
+  "fig11_kern_new": 0,
+  "degenerate_old": 4,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3397,
+   3397
+  ],
+  "bytes_old_new": [
+   556376,
+   554988
+  ]
+ },
+ "AureateRomanLivingOlympian-BoldItalic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 131768,
+  "pangram_width_new": 134747,
+  "width_change_pct": 2.261,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -99,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3400,
+   3400
+  ],
+  "bytes_old_new": [
+   594072,
+   602732
+  ]
+ },
+ "AureateRomanLivingOlympian-Italic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 126550,
+  "pangram_width_new": 129582,
+  "width_change_pct": 2.396,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -133,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3405,
+   3405
+  ],
+  "bytes_old_new": [
+   594760,
+   602556
+  ]
+ },
+ "AureateRomanLivingOlympian-Regular.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 121878,
+  "pangram_width_new": 124586,
+  "width_change_pct": 2.222,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -66,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3397,
+   3397
+  ],
+  "bytes_old_new": [
+   551376,
+   549924
+  ]
+ },
+ "AureateRomanLivingShort-Bold.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 151097,
+  "pangram_width_new": 154502,
+  "width_change_pct": 2.254,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -113,
+  "fig11_kern_new": 0,
+  "degenerate_old": 4,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3397,
+   3397
+  ],
+  "bytes_old_new": [
+   553800,
+   552480
+  ]
+ },
+ "AureateRomanLivingShort-BoldItalic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 146989,
+  "pangram_width_new": 149634,
+  "width_change_pct": 1.799,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -113,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3400,
+   3400
+  ],
+  "bytes_old_new": [
+   592560,
+   591892
+  ]
+ },
+ "AureateRomanLivingShort-Italic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 142091,
+  "pangram_width_new": 144798,
+  "width_change_pct": 1.905,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -152,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3405,
+   3405
+  ],
+  "bytes_old_new": [
+   592680,
+   592148
+  ]
+ },
+ "AureateRomanLivingShort-Regular.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 144284,
+  "pangram_width_new": 147201,
+  "width_change_pct": 2.022,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -76,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3397,
+   3397
+  ],
+  "bytes_old_new": [
+   548268,
+   547012
+  ]
+ },
+ "AureateRomanLivingTall-Bold.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 151097,
+  "pangram_width_new": 154502,
+  "width_change_pct": 2.254,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -113,
+  "fig11_kern_new": 0,
+  "degenerate_old": 4,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3397,
+   3397
+  ],
+  "bytes_old_new": [
+   556268,
+   554928
+  ]
+ },
+ "AureateRomanLivingTall-BoldItalic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 146989,
+  "pangram_width_new": 151478,
+  "width_change_pct": 3.054,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -113,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3400,
+   3400
+  ],
+  "bytes_old_new": [
+   596620,
+   597240
+  ]
+ },
+ "AureateRomanLivingTall-Italic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 142091,
+  "pangram_width_new": 146598,
+  "width_change_pct": 3.172,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -152,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3405,
+   3405
+  ],
+  "bytes_old_new": [
+   597124,
+   597480
+  ]
+ },
+ "AureateRomanLivingTall-Regular.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 144284,
+  "pangram_width_new": 147201,
+  "width_change_pct": 2.022,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -76,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3397,
+   3397
+  ],
+  "bytes_old_new": [
+   550552,
+   549244
+  ]
+ },
+ "AureateRomanLivingVariable-Bold.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 151097,
+  "pangram_width_new": 154502,
+  "width_change_pct": 2.254,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -113,
+  "fig11_kern_new": 0,
+  "degenerate_old": 4,
+  "degenerate_new": 4,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "instances": [
+   "Condensed",
+   "Calm",
+   "Bold"
+  ],
+  "glyphs_old_new": [
+   3397,
+   3397
+  ],
+  "bytes_old_new": [
+   762712,
+   760012
+  ]
+ },
+ "AureateRomanLivingVariable-BoldItalic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 146989,
+  "pangram_width_new": 149907,
+  "width_change_pct": 1.985,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -113,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "instances": [
+   "Condensed",
+   "Calm",
+   "Bold Italic"
+  ],
+  "glyphs_old_new": [
+   3400,
+   3400
+  ],
+  "bytes_old_new": [
+   837556,
+   833132
+  ]
+ },
+ "AureateRomanLivingVariable-Italic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 142091,
+  "pangram_width_new": 145038,
+  "width_change_pct": 2.074,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -152,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "instances": [
+   "Condensed",
+   "Calm",
+   "Italic"
+  ],
+  "glyphs_old_new": [
+   3405,
+   3405
+  ],
+  "bytes_old_new": [
+   837040,
+   832636
+  ]
+ },
+ "AureateRomanLivingVariable-Regular.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 144284,
+  "pangram_width_new": 147201,
+  "width_change_pct": 2.022,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -76,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "instances": [
+   "Condensed",
+   "Calm",
+   "Regular"
+  ],
+  "glyphs_old_new": [
+   3397,
+   3397
+  ],
+  "bytes_old_new": [
+   751500,
+   748908
+  ]
+ },
+ "AureateRomanMonumental-Bold.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 159789,
+  "pangram_width_new": 163641,
+  "width_change_pct": 2.411,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -118,
+  "fig11_kern_new": 0,
+  "degenerate_old": 4,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3397,
+   3397
+  ],
+  "bytes_old_new": [
+   561372,
+   560024
+  ]
+ },
+ "AureateRomanMonumental-BoldItalic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 155999,
+  "pangram_width_new": 159956,
+  "width_change_pct": 2.537,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -118,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3400,
+   3400
+  ],
+  "bytes_old_new": [
+   599544,
+   600876
+  ]
+ },
+ "AureateRomanMonumental-Italic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 150670,
+  "pangram_width_new": 154620,
+  "width_change_pct": 2.622,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -159,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3405,
+   3405
+  ],
+  "bytes_old_new": [
+   600220,
+   600804
+  ]
+ },
+ "AureateRomanMonumental-Regular.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 152491,
+  "pangram_width_new": 155815,
+  "width_change_pct": 2.18,
+  "notdef_contours": 2,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": -80,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   3397,
+   3397
+  ],
+  "bytes_old_new": [
+   556396,
+   554996
+  ]
+ },
+ "AureateSans-Bold.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 154953,
+  "pangram_width_new": 154953,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2488,
+   2488
+  ],
+  "bytes_old_new": [
+   484448,
+   484436
+  ]
+ },
+ "AureateSans-BoldItalic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 149782,
+  "pangram_width_new": 149782,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2472,
+   2472
+  ],
+  "bytes_old_new": [
+   449812,
+   455840
+  ]
+ },
+ "AureateSans-Italic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 141754,
+  "pangram_width_new": 141754,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2472,
+   2472
+  ],
+  "bytes_old_new": [
+   451152,
+   457468
+  ]
+ },
+ "AureateSans-Regular.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 146208,
+  "pangram_width_new": 146208,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2488,
+   2488
+  ],
+  "bytes_old_new": [
+   485404,
+   485452
+  ]
+ },
+ "AureateSansCondensed-Bold.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 139904,
+  "pangram_width_new": 139904,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2488,
+   2488
+  ],
+  "bytes_old_new": [
+   484828,
+   484780
+  ]
+ },
+ "AureateSansCondensed-BoldItalic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 135226,
+  "pangram_width_new": 135226,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2472,
+   2472
+  ],
+  "bytes_old_new": [
+   451468,
+   457948
+  ]
+ },
+ "AureateSansCondensed-Italic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 128250,
+  "pangram_width_new": 128250,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2472,
+   2472
+  ],
+  "bytes_old_new": [
+   452812,
+   459356
+  ]
+ },
+ "AureateSansCondensed-Regular.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 132306,
+  "pangram_width_new": 132306,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2488,
+   2488
+  ],
+  "bytes_old_new": [
+   485608,
+   485656
+  ]
+ },
+ "AureateSansGeometric-Bold.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 131255,
+  "pangram_width_new": 136630,
+  "width_change_pct": 4.095,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2488,
+   2488
+  ],
+  "bytes_old_new": [
+   556256,
+   555884
+  ]
+ },
+ "AureateSansGeometric-BoldItalic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 128628,
+  "pangram_width_new": 128628,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2472,
+   2472
+  ],
+  "bytes_old_new": [
+   520664,
+   524308
+  ]
+ },
+ "AureateSansGeometric-Italic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 123231,
+  "pangram_width_new": 123231,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2472,
+   2472
+  ],
+  "bytes_old_new": [
+   523088,
+   527176
+  ]
+ },
+ "AureateSansGeometric-Regular.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 125284,
+  "pangram_width_new": 133758,
+  "width_change_pct": 6.764,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2488,
+   2488
+  ],
+  "bytes_old_new": [
+   558288,
+   557884
+  ]
+ },
+ "AureateSansShort-Bold.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 154953,
+  "pangram_width_new": 154953,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2488,
+   2488
+  ],
+  "bytes_old_new": [
+   483928,
+   483900
+  ]
+ },
+ "AureateSansShort-BoldItalic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 149782,
+  "pangram_width_new": 149782,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2472,
+   2472
+  ],
+  "bytes_old_new": [
+   449040,
+   455004
+  ]
+ },
+ "AureateSansShort-Italic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 141754,
+  "pangram_width_new": 141754,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2472,
+   2472
+  ],
+  "bytes_old_new": [
+   449468,
+   455708
+  ]
+ },
+ "AureateSansShort-Regular.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 146208,
+  "pangram_width_new": 146208,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2488,
+   2488
+  ],
+  "bytes_old_new": [
+   485180,
+   485212
+  ]
+ },
+ "AureateSansTall-Bold.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 154953,
+  "pangram_width_new": 154953,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2488,
+   2488
+  ],
+  "bytes_old_new": [
+   485572,
+   485548
+  ]
+ },
+ "AureateSansTall-BoldItalic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 149782,
+  "pangram_width_new": 149782,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2472,
+   2472
+  ],
+  "bytes_old_new": [
+   451260,
+   460564
+  ]
+ },
+ "AureateSansTall-Italic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 141754,
+  "pangram_width_new": 141754,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2472,
+   2472
+  ],
+  "bytes_old_new": [
+   452416,
+   460276
+  ]
+ },
+ "AureateSansTall-Regular.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 146208,
+  "pangram_width_new": 146208,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "glyphs_old_new": [
+   2488,
+   2488
+  ],
+  "bytes_old_new": [
+   486264,
+   486320
+  ]
+ },
+ "AureateSansVariable-Bold.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 154953,
+  "pangram_width_new": 154953,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "instances": [
+   "Condensed",
+   "Calm",
+   "Bold"
+  ],
+  "glyphs_old_new": [
+   2488,
+   2488
+  ],
+  "bytes_old_new": [
+   814140,
+   799408
+  ]
+ },
+ "AureateSansVariable-BoldItalic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 149782,
+  "pangram_width_new": 149782,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "instances": [
+   "Condensed",
+   "Calm",
+   "Bold Italic"
+  ],
+  "glyphs_old_new": [
+   2472,
+   2472
+  ],
+  "bytes_old_new": [
+   648104,
+   641684
+  ]
+ },
+ "AureateSansVariable-Italic.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 141754,
+  "pangram_width_new": 141754,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "instances": [
+   "Condensed",
+   "Calm",
+   "Italic"
+  ],
+  "glyphs_old_new": [
+   2472,
+   2472
+  ],
+  "bytes_old_new": [
+   648624,
+   642080
+  ]
+ },
+ "AureateSansVariable-Regular.ttf": {
+  "shaping_mismatches": [],
+  "pangram_width_old": 146208,
+  "pangram_width_new": 146208,
+  "width_change_pct": 0.0,
+  "notdef_contours": 5,
+  "underline": [
+   -212,
+   81
+  ],
+  "strike": [
+   449,
+   81
+  ],
+  "fig11_kern_old": 0,
+  "fig11_kern_new": 0,
+  "degenerate_old": 0,
+  "degenerate_new": 0,
+  "version": "Version 1.701",
+  "mac_names": 0,
+  "gasp": {
+   "7": 10,
+   "65535": 15
+  },
+  "prep": true,
+  "STAT": true,
+  "instances": [
+   "Condensed",
+   "Calm",
+   "Regular"
+  ],
+  "glyphs_old_new": [
+   2488,
+   2488
+  ],
+  "bytes_old_new": [
+   816232,
+   800880
+  ]
+ }
+}

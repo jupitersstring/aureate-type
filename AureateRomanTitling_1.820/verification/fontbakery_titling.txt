@@ -1,0 +1,28 @@
+/path/to/scratch/aureate/venv/lib/python3.14/site-packages/fontbakery/fonts_profile.py:103: UserWarning: Failed to load fontbakery.checks.vendorspecific.googlefonts.glyphsets.shape_languages: No module named 'glyphsets'
+  warnings.warn("Failed to load %s: %s" % (import_path, e))
+Start ... running 242 individual check executions.
+All fonts: opentype/STAT/ital_axis: WARN [wrong-ital-axis-linkedvalue]
+AureateRomanTitling-Regular.ttf: alt_caron: WARN [None, decomposed-outline]
+AureateRomanTitling-Bold.ttf: alt_caron: WARN [None, decomposed-outline]
+AureateRomanTitling-Regular.ttf: base_has_width: FAIL [zero-width-bases]
+AureateRomanTitling-Bold.ttf: base_has_width: FAIL [zero-width-bases]
+AureateRomanTitling-Regular.ttf: case_mapping: FAIL [missing-case-counterparts]
+AureateRomanTitling-Bold.ttf: case_mapping: FAIL [missing-case-counterparts]
+AureateRomanTitling-Regular.ttf: contour_count: WARN [contour-count]
+AureateRomanTitling-Bold.ttf: contour_count: WARN [contour-count]
+AureateRomanTitling-Regular.ttf: ligature_carets: WARN [incomplete-caret-pos-data]
+AureateRomanTitling-Bold.ttf: ligature_carets: WARN [incomplete-caret-pos-data]
+AureateRomanTitling-Regular.ttf: linegaps: WARN [hhea]
+AureateRomanTitling-Bold.ttf: linegaps: WARN [hhea]
+AureateRomanTitling-Regular.ttf: math_signs_width: WARN [width-outliers]
+AureateRomanTitling-Bold.ttf: math_signs_width: WARN [width-outliers]
+AureateRomanTitling-Regular.ttf: smallcaps_before_ligatures: FAIL [feature-ordering]
+AureateRomanTitling-Bold.ttf: smallcaps_before_ligatures: FAIL [feature-ordering]
+AureateRomanTitling-Regular.ttf: soft_hyphen: WARN [softhyphen]
+AureateRomanTitling-Bold.ttf: soft_hyphen: WARN [softhyphen]
+AureateRomanTitling-Regular.ttf: typoascender_exceeds_Agrave: WARN [typoAscender]
+AureateRomanTitling-Bold.ttf: typoascender_exceeds_Agrave: WARN [typoAscender]
+AureateRomanTitling-Regular.ttf: unreachable_glyphs: WARN [unreachable-glyphs]
+AureateRomanTitling-Bold.ttf: unreachable_glyphs: WARN [unreachable-glyphs]
+
+ ERROR: 0 FATAL: 0 FAIL: 6 WARN: 17 INFO: 8 SKIP: 68 PASS: 143

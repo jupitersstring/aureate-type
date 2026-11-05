@@ -1,0 +1,46 @@
+{
+ "AureateDestiny-Bold.ttf": {
+  "family": "Aureate Destiny",
+  "style": "Bold",
+  "version": "Version 1.901",
+  "mac_names": 0,
+  "glyphs": 2488,
+  "lowercase_types_capitals": true,
+  "c2sc_gives_small_caps": true,
+  "kerning_active": true,
+  "figures_tabular": true
+ },
+ "AureateDestiny-Regular.ttf": {
+  "family": "Aureate Destiny",
+  "style": "Regular",
+  "version": "Version 1.901",
+  "mac_names": 0,
+  "glyphs": 2488,
+  "lowercase_types_capitals": true,
+  "c2sc_gives_small_caps": true,
+  "kerning_active": true,
+  "figures_tabular": true
+ },
+ "AureateDestinySolar-Bold.ttf": {
+  "family": "Aureate Destiny Solar",
+  "style": "Bold",
+  "version": "Version 1.901",
+  "mac_names": 0,
+  "glyphs": 2488,
+  "lowercase_types_capitals": true,
+  "c2sc_gives_small_caps": true,
+  "kerning_active": true,
+  "figures_tabular": true
+ },
+ "AureateDestinySolar-Regular.ttf": {
+  "family": "Aureate Destiny Solar",
+  "style": "Regular",
+  "version": "Version 1.901",
+  "mac_names": 0,
+  "glyphs": 2488,
+  "lowercase_types_capitals": true,
+  "c2sc_gives_small_caps": true,
+  "kerning_active": true,
+  "figures_tabular": true
+ }
+}

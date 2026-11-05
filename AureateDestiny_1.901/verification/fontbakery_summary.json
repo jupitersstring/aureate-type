@@ -1,0 +1,29 @@
+{
+ "profile": "universal",
+ "totals": {
+  "(not finished)": 0,
+  "FAIL": 6,
+  "INFO": 12,
+  "PASS": 287,
+  "SKIP": 130,
+  "WARN": 37
+ },
+ "not_passed": {
+  "opentype/family/consistent_family_name": {
+   "result": "FAIL",
+   "times": 1
+  },
+  "case_mapping": {
+   "result": "FAIL",
+   "times": 4
+  },
+  "typographic_family_name": {
+   "result": "FAIL",
+   "times": 1
+  }
+ },
+ "notes": {
+  "case_mapping": "by design: both cases give capitals",
+  "family name checks": "two families were checked in one folder"
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "AureateRomanTitling-Bold.ttf": {
+  "shaping_and_positions_identical_to_1.800": true,
+  "differing": [],
+  "largest_ink_growth_vs_1.800": [
+   [
+    85,
+    "uni02A2"
+   ],
+   [
+    85,
+    "uni02A1"
+   ],
+   [
+    57,
+    "uni01B5"
+   ],
+   [
+    56,
+    "uni2C6B"
+   ],
+   [
+    56,
+    "uni0224"
+   ]
+  ],
+  "version": "Version 1.820",
+  "mac_names": 0,
+  "glyphs": 3397
+ },
+ "AureateRomanTitling-Regular.ttf": {
+  "shaping_and_positions_identical_to_1.800": true,
+  "differing": [],
+  "largest_ink_growth_vs_1.800": [
+   [
+    92,
+    "twosuperior"
+   ],
+   [
+    92,
+    "onehalf"
+   ],
+   [
+    81,
+    "two.alt"
+   ],
+   [
+    75,
+    "uni0409.aursc"
+   ],
+   [
+    50,
+    "uni1E40.aursc"
+   ]
+  ],
+  "version": "Version 1.820",
+  "mac_names": 0,
+  "glyphs": 3397
+ },
+ "AureateRomanTitlingSC-Bold.ttf": {
+  "shaping_and_positions_identical_to_1.800": true,
+  "differing": [],
+  "largest_ink_growth_vs_1.800": [
+   [
+    85,
+    "uni02A2"
+   ],
+   [
+    85,
+    "uni02A1"
+   ],
+   [
+    57,
+    "uni01B5"
+   ],
+   [
+    56,
+    "uni2C6B"
+   ],
+   [
+    56,
+    "uni0224"
+   ]
+  ],
+  "version": "Version 1.820",
+  "mac_names": 0,
+  "glyphs": 3397
+ },
+ "AureateRomanTitlingSC-Regular.ttf": {
+  "shaping_and_positions_identical_to_1.800": true,
+  "differing": [],
+  "largest_ink_growth_vs_1.800": [
+   [
+    92,
+    "twosuperior"
+   ],
+   [
+    92,
+    "onehalf"
+   ],
+   [
+    81,
+    "two.alt"
+   ],
+   [
+    75,
+    "uni0409.aursc"
+   ],
+   [
+    50,
+    "uni1E40.aursc"
+   ]
+  ],
+  "version": "Version 1.820",
+  "mac_names": 0,
+  "glyphs": 3397
+ }
+}
